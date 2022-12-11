@@ -18,7 +18,7 @@ combine them with other sources of computation or knowledge.
 
 This library is aimed at assisting in the development of those types of applications.
 
-## 📖 Documentation
+## 📖 Documentation:
 
 Please see [here](https://langchain.readthedocs.io/en/latest/?) for full documentation on:
 - Getting started (installation, setting up environment, simple examples)
